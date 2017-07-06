@@ -2,10 +2,29 @@
   background-color: skyblue;
 }
 
-.message{
-
+.needBook {
+  display: none;
 }
 
 .hiddenInfo{
   display: none;
+}
+
+img {
+  display: none;
+  cursor: pointer;
+  display: block;
+}
+
+.col-md-6 p {
+  display: none;
+}
+
+.img:hover {
+  text-decoration: underline;
+}
+
+.info{
+  color: red;
+  margin-top: 500px;
 }
